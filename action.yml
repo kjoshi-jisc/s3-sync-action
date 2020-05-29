@@ -1,6 +1,6 @@
 name: "S3 Sync"
 description: "Sync two AWS S3 buckets"
-author: kiran joshi
+author: kjoshi-jisc
 runs:
   using: docker
   image: Dockerfile
